@@ -1,0 +1,22 @@
+datasetPath: ['../datasets/2nodes_40000samples.csv', '../datasets/3nodes_50000samples.csv',
+              '../datasets/4nodes_80000samples.csv', '../datasets/5nodes_100000samples.csv',
+              '../datasets/6nodes_200000samples.csv', '../datasets/7nodes_250000samples.csv',
+              '../datasets/8nodes_300000samples.csv']
+
+headNumRange: [[2, 5], [2, 5],
+               [2, 5], [2, 5],
+               [2, 5], [2, 5],
+               [2, 5]]
+
+modelPath: ['../ready_models/MEMTL_2n_', '../ready_models/MEMTL_3n_',
+            '../ready_models/MEMTL_4n_', '../ready_models/MEMTL_5n_',
+            '../ready_models/MEMTL_6n_', '../ready_models/MEMTL_7n_',
+            '../ready_models/MEMTL_8n_']
+
+result_file: ['../results/MEMTL_test_res.txt']
+
+F: 2.5e9
+kappa: 1e-28
+P_t: 0.3
+P_I: 0.1
+P_d: 0.3

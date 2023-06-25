@@ -1,0 +1,9 @@
+datasetPath: ['../datasets/2nodes_40000samples.csv', '../datasets/3nodes_50000samples.csv',
+              '../datasets/4nodes_80000samples.csv', '../datasets/5nodes_100000samples.csv',
+              '../datasets/6nodes_200000samples.csv', '../datasets/7nodes_250000samples.csv',
+              '../datasets/8nodes_300000samples.csv']
+
+modelPath: ['../ready_models/MTL_2n', '../ready_models/MTL_3n',
+            '../ready_models/MTL_4n', '../ready_models/MTL_5n',
+            '../ready_models/MTL_6n', '../ready_models/MTL_7n',
+            '../ready_models/MTL_8n']
