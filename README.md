@@ -2,7 +2,7 @@
 
 This repo contains the official implementations for the papers of 
 [Computation Offloading in Multi-Access Edge Computing: A Multi-Task Learning Approach](https://ieeexplore.ieee.org/document/9079564) by B. Yang, X. Cao, J. Bassey, X. Li and L. Qian. Published in IEEE TMC 2020 and 
-*A Multi-Head Ensemble Multi-Task Learning Approach for Dynamical Computation Offloading* by Liang, R., Yang, B., Yu, Z., Cao, X., Ng, D. W. K., & Yuen, C. accepted in IEEE GlobeCom 2023.
+[A Multi-Head Ensemble Multi-Task Learning Approach for Dynamical Computation Offloading](https://ieeexplore.ieee.org/abstract/document/10437346) by Liang, R., Yang, B., Yu, Z., Cao, X., Ng, D. W. K., & Yuen, C. accepted in IEEE GlobeCom 2023.
 
 ## Dataset introduction
 
